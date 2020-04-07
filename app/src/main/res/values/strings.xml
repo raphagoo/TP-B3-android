@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP</string>
+    <string-array name="planets_array">
+        <item>Fix</item>
+        <item>Mobile</item>
+        <item>Fax</item>
+    </string-array>
+    <string name="hint_firstname">Firstname</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_phonenumber">Phone number</string>
+    <string name="hint_birthdate">Birth date</string>
+    <string name="button_label">Save</string>
+</resources>
